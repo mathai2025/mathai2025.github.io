@@ -1,48 +1,68 @@
-javigad:
-    name: "Jeremy Avigad"
-    url: "https://www.andrew.cmu.edu/user/avigad/"
-    affiliation: "CMU"
-    img: "javigad.jpg"
-    bio: "Jeremy is a professor in the Department of Philosophy and the Department of Mathematical Sciences at Carnegie Mellon University. His research focuses on mathematical logic and formal methods in mathematics, as well as the philosophy and history of mathematics."
+schaudhuri:
+    name: "Swarat Chaudhuri"
+    url: "https://www.cs.utexas.edu/~swarat/"
+    affiliation: "UT Austin & Google DeepMindT"
+    img: "schaudhuri.jpg"
+    bio: "Swarat Chaudhuri is a Professor of Computer Science at UT Austin and a Senior Staff Research Scientist at Google DeepMind. His research lies at the interface of programming languages, formal methods, and machine learning. His research seeks to develop a new class of intelligent systems that are reliable, transparent, and secure by construction and can solve reasoning-intensive tasks beyond the scope of contemporary AI."
 
-sbengio:
-    name: "Samy Bengio"
-    url: "https://bengio.abracadoudou.com/"
-    affiliation: "Apple"
-    img: "sbengio.jpg"
-    bio: "Samy Bengio (PhD in computer science, University of Montreal, 1993) is a senior director of machine learning research at Apple since 2021. Before that, he was a distinguished scientist at Google Research since 2007 where he was heading part of the Google Brain team, and at IDIAP in the early 2000s where he co-wrote the well-known open-source Torch machine learning library. His research interests span many areas of machine learning such as deep architectures, representation learning, vision and language processing and more recently, reasoning."
+wchen:
+    name: "Weizhu Chen"
+    url: "https://www.microsoft.com/en-us/research/people/wzchen/"
+    affiliation: "Microsoft"
+    img: "wchen.jpg"
+    bio: "Weizhu Chen is a Technical Fellow and CVP at Microsoft. He leads a team working on large-scale (OpenAI and Microsoft) model training, including post-training, pre-training, and data. His published works include LoRA, DeBERTa, Phi, and Rho-1 (best paper runner-up award in NeurIPS 2024)."
 
-nbrown:
-    name: "Noam Brown"
-    url: "https://noambrown.github.io/"
-    affiliation: "OpenAI"
-    img: "nbrown.jpg"
-    bio: "Noam Brown is a research scientist at OpenAI investigating reasoning and multi-agent AI. He is a co-creator of the o1 model series by OpenAI. Prior to that, he co-created Libratus and Pluribus, the first AIs to defeat top humans in two-player no-limit poker and multiplayer no-limit poker, respectively, and Cicero, the first AI to achieve human-level performance in the natural language strategy game Diplomacy. He has received the Marvin Minsky Medal for Outstanding Achievements in AI, was named one of MIT Tech Review's 35 Innovators Under 35, and his work on Pluribus was named by Science as one of the top 10 scientific breakthroughs of 2019."
+ychoi:
+    name: "Yejin Choi"
+    url: "https://yejinc.github.io/"
+    affiliation: "Stanford University & NVIDIA"
+    img: "ychoi.jpg"
+    bio: "Yejin Choi is the (incoming) Dieter Schwarz Foundation Professor and HAI Senior Fellow at Stanford. She is a Senior Director at NVIDIA. Choi is MacArthur Fellow, AI2050 Senior Fellow, and named among Time 100 Most Influential People in AI in 2023. Her current research interests include fundamental limits and capabilities of LLMs, alternative training recipes for language models, symbolic methods for neural networks, reasoning and knowledge discovery, moral norms and values, pluralistic alignment, and AI safety."
 
-junehyuk:
-    name: "Junehyuk Jung"
+hhajishirzi:
+    name: "Hannaneh Hajishirzi "
     url: "https://sites.google.com/brown.edu/junehyuk"
-    affiliation: "Brown"
-    img: "junehyuk.jpg"
-    bio: "Junehyuk Jung is an associate professor of mathematics at Brown University, and a Visiting Researcher at Google DeepMind. He is interested in problems involving arithmetic hyperbolic manifolds and/or eigenfunctions of the Laplace-Beltrami operator."
+    affiliation: "University of Washington & AI2"
+    img: "hhajishirzi.jpg"
+    bio: "Hanna Hajishirzi is the Torode Family Associate Professor in the Allen School of Computer Science and Engineering at the University of Washington and a Senior Director of NLP at AI2. Her research delves into various areas within NLP and AI, focusing on understanding and pushing the boundaries of large language models. She is a recipient of 2020 Alfred Sloan Fellowship, 2021 NSF CAREER award, 2019 Intel rising star award, 2018 Allen Distinguished Investigator award, 2023 Academic Achievement UIUC Alumni award, 2024 innovator of the year award finalist by GeekWire, and several research faculty awards from industry. "
+hji:
+    name: "Heng Ji"
+    url: "https://blender.cs.illinois.edu/hengji.html"
+    affiliation: "University of Illinois Urbana-Champaign"
+    img: "hji.jpg"
+    bio: "Heng Ji is a Full Professor and Associate Director for Research at the Siebel School of Computing and Data Science at the University of Illinois Urbana-Champaign. She is an Amazon Scholar and the Founding Director of the Amazon-Illinois Center on AI for Interactive Conversational Experiences (AICE). Her research interests focus on natural language processing, especially on multimedia multilingual information extraction, knowledge-enhanced large language models and vision-Language models, and AI for science. "
 
-dsong:
-    name: "Dawn Song"
-    url: "https://dawnsong.io/"
-    affiliation: "UC Berkeley"
-    img: "dsong.jpg"
-    bio: "Dawn Song is a Professor at UC Berkeley. She has done research in AI and deep learning, blockchain/web3, security and privacy, as well as AI for coding and mathematical reasoning. She is the recipient of various awards including the MacArthur Fellowship, the Guggenheim Fellowship, and the NSF CAREER Award."
+cjin:
+    name: "Chi Jin"
+    url: "https://sites.google.com/view/cjin/home"
+    affiliation: "Princeton University"
+    img: "cjin.jpg"
+    bio: "Chi Jin is an Assistant Professor of Electrical and Computer Engineering at Princeton University. His research focuses on the decision-making aspects of machine learning, developing intelligent agents capable of complex strategy, advanced reasoning, and planning. His research interests also include improving the reasoning abilities of LLMs and developing LLM agents for mathematics, coding, and complex games."
 
-awagner:
-    name: "Adam Wagner"
-    url: "https://users.wpi.edu/~zadam/index.html"
-    affiliation: "Google DeepMind"
-    img: "awagner.jpg"
-    bio: "Adam Wagner is a research scientist at Google DeepMind. His former focus was in combinatorics and graph theory, though his recent work has shifted towards finding ways to integrate AI with mathematics research to aid mathematical intuition and advance mathematical research."
+akumar:
+    name: "Aviral Kumar"
+    url: "https://aviralkumar2907.github.io/"
+    affiliation: "CMU"
+    img: "akumar.jpg"
+    bio: "Aviral Kumar is an Assistant Professor in the School of Computer Science at Carnegie Mellon University. He is interested in a broad range of topics ranging from core reinforcement learning (RL) algorithms to scaling RL methods to foundation models to real robots."
 
-jameszou:
-    name: "James Zou"
-    url: "https://www.james-zou.com/"
+wliu:
+    name: "Weiyang Liu"
+    url: "https://wyliu.com/"
+    affiliation: "Chinese University of Hong Kong"
+    img: "wliu.jpg"
+    bio: "Weiyang Liu is an (incoming) Assistant Professor at CUHK. He works on principled modeling of inductive bias in learning algorithms. His research seeks to understand how inductive bias affects generalization, and to develop ``light-yet-sweet'' learning algorithms: (i) light: conceptually simple in methodology and easy to implement in practice, (ii) sweet: having clear intuitions and nontrivial theoretical guarantees."
+
+tma:
+    name: "Tengyu Ma"
+    url: "https://ai.stanford.edu/~tengyuma/"
     affiliation: "Stanford University"
-    img: "jzou.png"
-    bio: "James Zou is an associate professor of Biomedical Data Science and, by courtesy, of Computer Science and Electrical Engineering at Stanford University. He works on making AI more reliable, human-compatible and statistically rigorous, and is especially interested in applications in human disease and health. His recent work includes developing versatile frameworks for designing and optimizing AI agents in complex reasoning and scientific discovery. His research is supported by the Sloan Fellowship, the NSF CAREER Award, and Google, Amazon and Adobe AI awards."
+    img: "tma.jpg"
+    bio: "Tengyu Ma is an Assistant Professor of Computer Science and Statistics at Stanford. His research interests broadly include topics in machine learning, algorithms and their theory, such as deep learning, (deep) reinforcement learning, pre-training / foundation models, robustness, non-convex optimization, distributed optimization, and high-dimensional statistics."
+
+mvechev:
+    name: "Martin Vechev"
+    url: "https://www.sri.inf.ethz.ch/people/martin"
+    affiliation: "ETH Zürich & INSAIT"
+    img: "mvechev.jpg"
+    bio: "Martin Vechev is a Professor of Computer Science at ETH Zürich where he leads the Secure, Reliable, and Intelligent Systems Lab. He is also the Founder and Architect of INSAIT, the first world-class research center in computer science and artificial intelligence in Eastern Europe. His work spans the broad intersection of artificial intelligence and programming languages, including both theoretical and system aspects."

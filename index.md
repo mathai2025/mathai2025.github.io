@@ -39,7 +39,7 @@ To address this question, we aim to bring together a diverse group of scholars f
 
 <hr>
 
-# Speakers & Panelists
+# Speakers & Panelists (Tentative)
 <div class="container" style="margin-top: 20px;margin-bottom: 0px;">
   <!--
   <div class="row">
