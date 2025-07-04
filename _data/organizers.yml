@@ -7,7 +7,7 @@ sshan:
   name: "Sophia Simeng Han"
   url: "https://sophiahan6.github.io/"
   affiliation: "Yale University"
-  img: "sshan.jpg"
+  img: "sshan.png"
 plu:
   name: "Pan Lu"
   url: "https://lupantech.github.io/"
@@ -22,7 +22,7 @@ ezelikman:
   name: "Eric Zelikman"
   url: "https://zelikman.me/"
   affiliation: "xAI"
-  img: "ezelikman.png"
+  img: "ezelikman.jpg"
 ylin:
   name: "Yong Lin"
   url: "https://linyongver.github.io/Website/"
