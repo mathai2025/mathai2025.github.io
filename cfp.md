@@ -56,5 +56,5 @@ Submission Link: [https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/MATH-
 
 The final version of all accepted papers will be given one additional page of content (up to 5 pages) so that reviewers’ comments can be taken into account.
 
-Please email any inquiries to [mathai.neurips2024@gmail.com](mailto:mathai.neurips2024@gmail.com).
+Please email any inquiries to [mathai.neurips2025@gmail.com](mailto:mathai.neurips2025@gmail.com).
 -->
