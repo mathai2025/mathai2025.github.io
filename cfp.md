@@ -16,9 +16,9 @@ TBA
 ### Important Dates 
 
 **Paper submission opens:** TBA <br>
-**Deadline for paper submission**: August 22, 2025 (AoE)<br>
-**Notification:** September 22, 2025 (AoE) <br>
-**Camera Ready:** TBA <br>
+**Paper submission deadline**: <b style='color:red;'>August 22, 2025 (AoE)</b><br>
+**Author notification:** September 22, 2025 (AoE) <br>
+**Camera-ready deadline:** TBA <br>
 **Workshop:** December 6 or 7 (TBA), 2025
 
 
