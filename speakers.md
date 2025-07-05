@@ -5,7 +5,7 @@ subtitle: "Toward Human-Level Mathematical Reasoning"
 use-site-title: true
 ---
 
-# Speakers & Panelists
+# Speakers & Panelists (Tentative)
 <div class="container" style="margin-top: 25px;margin-bottom: 40px;">
   {% for p in site.data.speakers %}
   {% if forloop.index<15 %}

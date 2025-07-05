@@ -1,7 +1,7 @@
 schaudhuri:
     name: "Swarat Chaudhuri"
     url: "https://www.cs.utexas.edu/~swarat/"
-    affiliation: "UT Austin & Google DeepMindT"
+    affiliation: "UT Austin & Google DeepMind"
     img: "schaudhuri.jpg"
     bio: "Swarat Chaudhuri is a Professor of Computer Science at UT Austin and a Senior Staff Research Scientist at Google DeepMind. His research lies at the interface of programming languages, formal methods, and machine learning. His research seeks to develop a new class of intelligent systems that are reliable, transparent, and secure by construction and can solve reasoning-intensive tasks beyond the scope of contemporary AI."
 
@@ -21,7 +21,7 @@ ychoi:
 
 hhajishirzi:
     name: "Hannaneh Hajishirzi "
-    url: "https://sites.google.com/brown.edu/junehyuk"
+    url: "https://homes.cs.washington.edu/~hannaneh/"
     affiliation: "University of Washington & AI2"
     img: "hhajishirzi.jpg"
     bio: "Hanna Hajishirzi is the Torode Family Associate Professor in the Allen School of Computer Science and Engineering at the University of Washington and a Senior Director of NLP at AI2. Her research delves into various areas within NLP and AI, focusing on understanding and pushing the boundaries of large language models. She is a recipient of 2020 Alfred Sloan Fellowship, 2021 NSF CAREER award, 2019 Intel rising star award, 2018 Allen Distinguished Investigator award, 2023 Academic Achievement UIUC Alumni award, 2024 innovator of the year award finalist by GeekWire, and several research faculty awards from industry. "
