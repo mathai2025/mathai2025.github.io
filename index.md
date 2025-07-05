@@ -25,7 +25,7 @@ If you'd like to become a reviewer for the workshop, or recommend someone, [plea
 
 # News
 
-* [July 4]: Our workshop is accepted to NeurIPS 2025! We're currently preparing the the <a href="./cfp">Call for Paper</a>&mdash;stay tuned!
+* July 4: Our workshop is accepted to NeurIPS 2025! We're currently preparing the the <a href="./cfp">Call for Paper</a>&mdash;stay tuned!
 
 # Overview
 
