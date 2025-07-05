@@ -15,7 +15,7 @@ wchen:
 ychoi:
     name: "Yejin Choi"
     url: "https://yejinc.github.io/"
-    affiliation: "Stanford University & NVIDIA"
+    affiliation: "Stanford & NVIDIA"
     img: "ychoi.jpg"
     bio: "Yejin Choi is the (incoming) Dieter Schwarz Foundation Professor and HAI Senior Fellow at Stanford. She is a Senior Director at NVIDIA. Choi is MacArthur Fellow, AI2050 Senior Fellow, and named among Time 100 Most Influential People in AI in 2023. Her current research interests include fundamental limits and capabilities of LLMs, alternative training recipes for language models, symbolic methods for neural networks, reasoning and knowledge discovery, moral norms and values, pluralistic alignment, and AI safety."
 
@@ -28,14 +28,14 @@ hhajishirzi:
 hji:
     name: "Heng Ji"
     url: "https://blender.cs.illinois.edu/hengji.html"
-    affiliation: "University of Illinois Urbana-Champaign"
+    affiliation: "UIUC"
     img: "hji.jpg"
     bio: "Heng Ji is a Full Professor and Associate Director for Research at the Siebel School of Computing and Data Science at the University of Illinois Urbana-Champaign. She is an Amazon Scholar and the Founding Director of the Amazon-Illinois Center on AI for Interactive Conversational Experiences (AICE). Her research interests focus on natural language processing, especially on multimedia multilingual information extraction, knowledge-enhanced large language models and vision-Language models, and AI for science. "
 
 cjin:
     name: "Chi Jin"
     url: "https://sites.google.com/view/cjin/home"
-    affiliation: "Princeton University"
+    affiliation: "Princeton"
     img: "cjin.jpg"
     bio: "Chi Jin is an Assistant Professor of Electrical and Computer Engineering at Princeton University. His research focuses on the decision-making aspects of machine learning, developing intelligent agents capable of complex strategy, advanced reasoning, and planning. His research interests also include improving the reasoning abilities of LLMs and developing LLM agents for mathematics, coding, and complex games."
 
@@ -56,7 +56,7 @@ wliu:
 tma:
     name: "Tengyu Ma"
     url: "https://ai.stanford.edu/~tengyuma/"
-    affiliation: "Stanford University"
+    affiliation: "Stanford"
     img: "tma.jpg"
     bio: "Tengyu Ma is an Assistant Professor of Computer Science and Statistics at Stanford. His research interests broadly include topics in machine learning, algorithms and their theory, such as deep learning, (deep) reinforcement learning, pre-training / foundation models, robustness, non-convex optimization, distributed optimization, and high-dimensional statistics."
 
