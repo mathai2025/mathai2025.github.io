@@ -6,17 +6,17 @@ kyang:
 sshan:
   name: "Sophia Simeng Han"
   url: "https://sophiahan6.github.io/"
-  affiliation: "Yale University"
+  affiliation: "Yale"
   img: "sshan.png"
 plu:
   name: "Pan Lu"
   url: "https://lupantech.github.io/"
-  affiliation: "Stanford University"
+  affiliation: "Stanford"
   img: "panlu.jpg"
 wxiong:
   name: "Wei Xiong"
   url: "https://weixiongust.github.io/WeiXiongUST/index.html"
-  affiliation: "University of Illinois Urbana-Champaign"
+  affiliation: "UIUC"
   img: "wxiong.jpg"
 ezelikman:
   name: "Eric Zelikman"
@@ -26,20 +26,20 @@ ezelikman:
 ylin:
   name: "Yong Lin"
   url: "https://linyongver.github.io/Website/"
-  affiliation: "Princeton University"
+  affiliation: "Princeton"
   img: "ylin.png"
 hhe:
   name: "He He"
   url: "https://hhexiy.github.io/"
-  affiliation: "New York University"
+  affiliation: "NYU"
   img: "hhe.jpg"
 dsong:
   name: "Dawn Song"
   url: "https://dawnsong.io/"
-  affiliation: "University of California, Berkeley"
+  affiliation: "UC Berkeley"
   img: "dsong.jpg"
 sarora:
   name: "Sanjeev Arora"
   url: "https://www.cs.princeton.edu/~arora/"
-  affiliation: "Princeton University"
+  affiliation: "Princeton"
   img: "sarora.jpg"
