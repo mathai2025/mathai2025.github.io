@@ -107,10 +107,10 @@ To address this question, we aim to bring together a diverse group of scholars f
 </div>
 <hr> -->
 
-# Previous MATH-AI Workshops
+# Past MATH-AI Workshops
 
 <div class="container" style="margin-bottom: 10px;"></div>
-- 4rd MATH-AI Workshop at NeurIPS'23: [The 3rd Workshop on Mathematical Reasoning and AI](https://mathai2024.github.io/)
+- 4rd MATH-AI Workshop at NeurIPS'24: [The 4th Workshop on Mathematical Reasoning and AI](https://mathai2024.github.io/)
 - 3rd MATH-AI Workshop at NeurIPS'23: [The 3rd Workshop on Mathematical Reasoning and AI](https://mathai2023.github.io/)
 - 2nd MATH-AI Workshop at NeurIPS'22: [Toward Human-Level Mathematical Reasoning](https://mathai2022.github.io/)
 - 1st MATH-AI Workshop at ICLR'21: [The Role of Mathematical Reasoning in General Artificial Intelligence](https://mathai-iclr.github.io/)
