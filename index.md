@@ -6,7 +6,7 @@ use-site-title: true
 ---
 <div class="venue" style="font-size: 27px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
   <!-- (West Meeting Room 118-120, Vancouver, December 14, 2025, <a href="https://neurips.cc/virtual/2025/workshop/84719" target="_blank">Website</a>) -->
-  NeurIPS 2025, San Diego, December 6th or 7th (TBA), 2025
+  <a target="_blank" href="https://neurips.cc/">NeurIPS 2025</a>, San Diego, December 6th or 7th (TBA), 2025
 </div>
 <div><b style='color:red;'>Website under construction. Please come back later.</b></div>
 
@@ -28,7 +28,7 @@ If you'd like to become a reviewer for the workshop, or recommend someone, [plea
 Mathematical reasoning is a fundamental aspect of human cognition that has been studied by scholars ranging from 
 philosophers to cognitive scientists and neuroscientists. Mathematical reasoning involves analyzing complex information, identifying patterns and relationships, and drawing logical conclusions from evidence. It is central to many applications in science, engineering, finance, and everyday contexts. Recent advancements in large language models (LLMs) have unlocked new opportunities at the intersection of artificial intelligence and mathematical reasoning, ranging from new methods that solve complex problems or prove theorems, to new forms of human-machine collaboration in mathematics and beyond. 
 
-Our proposed workshop is centered on the intersection of deep learning and mathematical reasoning, with an emphasis on, but not limited to, large language models. Our guiding theme is: ``\emph{To what extent can machine learning models comprehend mathematics, and what applications could arise from this capability?}'' To address this question, we aim to bring together a diverse group of scholars from different backgrounds, institutions, and disciplines into our workshop. Our objective is to foster a lively and constructive dialogue on areas related, but not limited, to the following:
+Our proposed workshop is centered on the intersection of deep learning and mathematical reasoning, with an emphasis on, but not limited to, large language models. Our guiding theme is: *To what extent can machine learning models comprehend mathematics, and what applications could arise from this capability?* To address this question, we aim to bring together a diverse group of scholars from different backgrounds, institutions, and disciplines into our workshop. Our objective is to foster a lively and constructive dialogue on areas related, but not limited, to the following:
 To address this question, we aim to bring together a diverse group of scholars from different backgrounds, institutions, and disciplines into our workshop. Our objective is to foster a lively and constructive dialogue on areas related, but not limited, to the following:
 
 - **Humans vs. machines**: A comparative study of human-level mathematical reasoning and current AI techniques. How do they differ, complement one another, or intersect?
@@ -42,7 +42,6 @@ To address this question, we aim to bring together a diverse group of scholars f
 
 # Speakers & Panelists (Tentative)
 <div class="container" style="margin-top: 20px;margin-bottom: 0px;">
-  <!--
   <div class="row">
     {% for p in site.data.speakers %}
     {% if forloop.index<=5 %}
@@ -68,7 +67,6 @@ To address this question, we aim to bring together a diverse group of scholars f
     {% endfor %}
   </div>
 <a href="speakers">More Info</a>
--->
 </div>
 
 <hr>
