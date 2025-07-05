@@ -66,7 +66,6 @@ To address this question, we aim to bring together a diverse group of scholars f
     {% endif %}
     {% endfor %}
   </div>
-<a href="speakers">More Info</a>
 </div>
 
 <hr>
