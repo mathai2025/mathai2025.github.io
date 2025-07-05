@@ -11,7 +11,7 @@ use-site-title: true
 # Schedule
 
 
-TBA
+The schedule is to be announced.
 
 <!-- #### Friday, December 14th, 2023
 #### All times are in Central Standard Time (CST) ([Check local time](https://www.google.com/search?q=time+for+local+new+orleans))

@@ -1,16 +1,19 @@
 ---
 layout: page
 title: MATH-AI
-subtitle: "The 4th Workshop on Mathematical Reasoning and AI"
+subtitle: "The 5th Workshop on Mathematical Reasoning and AI"
 use-site-title: true
 ---
 <div class="venue" style="font-size: 27px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
-  (West Meeting Room 118-120, Vancouver, December 14, 2025, <a href="https://neurips.cc/virtual/2025/workshop/84719" target="_blank">Website</a>)
+  NeurIPS 2025, San Diego, December 6th or 7th (TBA), 2025
 </div>
 
 
 # Call for Papers
 
+TBA
+
+<!--
 
 Recent advancements in large language models (LLMs) have unlocked new opportunities at the intersection of artificial intelligence and mathematical reasoning, ranging from new methods that solve complex problems or prove theorems, to new forms of human-machine collaboration in mathematics and beyond. 
 
@@ -29,7 +32,10 @@ To address this question, we aim to bring together a diverse group of scholars f
 
 ### Important Dates 
 
+-->
+
 <!--{% include dates.md %} <a href="{site.url}/2020/img/KR2ML2020_template.zip">NeurIPS paper format (adapted)</a>. -->
+<!--
 **Paper submission opens:** August 1, 2025 <br>
 **Deadline for paper submission**: <s>September 20, 2025</s> September 25, 2025 (AoE time)<br>
 **Notification:** October 9, 2025 <br>
@@ -51,3 +57,4 @@ Submission Link: [https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/MATH-
 The final version of all accepted papers will be given one additional page of content (up to 5 pages) so that reviewers’ comments can be taken into account.
 
 Please email any inquiries to [mathai.neurips2024@gmail.com](mailto:mathai.neurips2024@gmail.com).
+-->
