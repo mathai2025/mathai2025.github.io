@@ -13,6 +13,15 @@ use-site-title: true
 
 TBA
 
+### Important Dates 
+
+**Paper submission opens:** TBA <br>
+**Deadline for paper submission**: August 22, 2025 (AoE)<br>
+**Notification:** September 22, 2025 (AoE) <br>
+**Camera Ready:** TBA <br>
+**Workshop:** December 6 or 7 (TBA), 2025
+
+
 <!--
 
 Recent advancements in large language models (LLMs) have unlocked new opportunities at the intersection of artificial intelligence and mathematical reasoning, ranging from new methods that solve complex problems or prove theorems, to new forms of human-machine collaboration in mathematics and beyond. 
