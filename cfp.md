@@ -11,6 +11,8 @@ use-site-title: true
 
 # Call for Papers
 
+<b style='color:red;'>This page is still under construction. Key details may change. Please check later.</b>
+
 Mathematical reasoning is a fundamental aspect of human cognition that has been studied by scholars ranging from 
 philosophers to cognitive scientists and neuroscientists. Mathematical reasoning involves analyzing complex information, identifying patterns and relationships, and drawing logical conclusions from evidence. It is central to many applications in science, engineering, finance, and everyday contexts. Recent advancements in large language models (LLMs) have unlocked new opportunities at the intersection of artificial intelligence and mathematical reasoning, ranging from new methods that solve complex problems or prove theorems, to new forms of human-machine collaboration in mathematics and beyond. 
 
