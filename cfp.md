@@ -11,7 +11,9 @@ use-site-title: true
 
 # Call for Papers
 
+<!--
 <b style='color:red;'>This page is still under construction. Key details may change. Please check later.</b>
+-->
 
 Mathematical reasoning is a fundamental aspect of human cognition that has been studied by scholars ranging from 
 philosophers to cognitive scientists and neuroscientists. Mathematical reasoning involves analyzing complex information, identifying patterns and relationships, and drawing logical conclusions from evidence. It is central to many applications in science, engineering, finance, and everyday contexts. Recent advancements in large language models (LLMs) have unlocked new opportunities at the intersection of artificial intelligence and mathematical reasoning, ranging from new methods that solve complex problems or prove theorems, to new forms of human-machine collaboration in mathematics and beyond. 
@@ -27,9 +29,9 @@ This workshop is centered on the intersection of deep learning and mathematical 
 ### Important Dates 
 
 **Paper submission opens:** July 22, 2025 <br>
-**Paper submission deadline**: <b style='color:red;'>August 22, 2025 (AoE)</b><br>
+**Paper submission deadline**: <b style='color:red;'>August 29, 2025 (AoE)</b><br>
 **Author notification:** September 22, 2025 (AoE) <br>
-**Camera-ready deadline:** October 22, 2025 <br>
+**Camera-ready deadline:** October 30, 2025 <br>
 **Workshop:** December 6 or 7 (TBA), 2025
 
 
@@ -37,15 +39,11 @@ This workshop is centered on the intersection of deep learning and mathematical 
 
 Submissions to MATH-AI 2025 are limited to **4 pages** of content, but may contain an unlimited number of pages for references and appendices. The latter may not necessarily be read by the reviewers. We request and recommend that authors rely on the supplementary material only to include minor details (e.g., hyperparameter settings, reproducibility information, etc.) that do not fit in the 4 pages. The review process is double-blind, so please ensure that all papers are appropriately anonymised.
 
-All submissions must be formatted using [NeurIPS 2025 LaTeX style files](https://media.neurips.cc/Conferences/NeurIPS2025/Styles.zip). Please use <code>\usepackage[dblblindworkshop]{neurips_2025}</code> for submission and <code>\usepackage[dblblindworkshop, final]{neurips_2025}</code> for the camera-ready version. The checklist is not required.
+All submissions must be formatted using [NeurIPS 2025 LaTeX style files](https://media.neurips.cc/Conferences/NeurIPS2025/Styles.zip). For anonymous submission, please use <code>\usepackage[dblblindworkshop]{neurips_2025}</code>. For the camera-ready version, please use <code>\usepackage[dblblindworkshop, final]{neurips_2025}</code> and add the <code>\workshoptitle{MATH-AI}</code> command. The paper checklist is not required.
 
 All accepted papers will be presented in an in-person poster session, and some will be selected for oral presentation. We also permit papers that have been recently published or are under submission to another venue. Please mark such papers accordingly upon submission. The page limit for these submissions is 4 pages. Accepted papers will be displayed on the MATH-AI 2025 homepage, but are to be considered **non-archival**.
 
 Submission link: TBA
-
-<!--
-[https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/MATH-AI](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/MATH-AI) 
--->
 
 
 ### Camera-ready Requirements
