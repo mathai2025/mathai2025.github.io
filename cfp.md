@@ -35,7 +35,7 @@ This workshop is centered on the intersection of deep learning and mathematical 
 
 Submissions to MATH-AI 2025 are limited to **4 pages** of content, but may contain an unlimited number of pages for references and appendices. The latter may not necessarily be read by the reviewers. We request and recommend that authors rely on the supplementary material only to include minor details (e.g., hyperparameter settings, reproducibility information, etc.) that do not fit in the 4 pages. The review process is double-blind, so please ensure that all papers are appropriately anonymised.
 
-All submissions must be formatted using the [this LaTeX template](_data_/mathai_neurips2025_template.zip) (derived from the NeurIPS template). All accepted papers will be presented in an in-person poster session, and some will be selected for oral presentation. We also permit papers that have been recently published or are under submission to another venue. Please mark such papers accordingly upon submission. The page limit for these submissions is 4 pages. Accepted papers will be displayed on the MATH-AI 2025 homepage, but are to be considered **non-archival**.
+All submissions must be formatted using [this LaTeX template](./_data_/mathai_neurips2025_template.zip) (derived from the NeurIPS template). All accepted papers will be presented in an in-person poster session, and some will be selected for oral presentation. We also permit papers that have been recently published or are under submission to another venue. Please mark such papers accordingly upon submission. The page limit for these submissions is 4 pages. Accepted papers will be displayed on the MATH-AI 2025 homepage, but are to be considered **non-archival**.
 
 Submission link: TBA
 
