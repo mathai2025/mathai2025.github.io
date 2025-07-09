@@ -17,15 +17,10 @@ use-site-title: true
 
 
 
-<!--
-# Reviewer Nomination
-
-If you'd like to become a reviewer for the workshop, or recommend someone, [please use this form](https://forms.gle/BssMrXeGgfMfLLFH9).
--->
-
 # News
 
-* July 4: Our workshop is accepted to NeurIPS 2025! We're currently preparing the the <a href="./cfp">Call for Paper</a>&mdash;stay tuned!
+* <b style='color:red;'>We're looking for reviewers, and you can use [this form](https://forms.gle/rw8iUkLxJnZh9De29) to nominate yourself. Thank you for your help!</b>
+* Our workshop is accepted to NeurIPS 2025! We're currently preparing the the <a href="./cfp">Call for Paper</a>&mdash;stay tuned!
 
 # Overview
 
