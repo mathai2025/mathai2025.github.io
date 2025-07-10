@@ -43,7 +43,7 @@ All submissions must be formatted using [this LaTeX template](https://github.com
 
 All accepted papers will be presented in an in-person poster session, and some will be selected for oral presentation. We also permit papers that have been recently published or are under submission to another venue. Please mark such papers accordingly upon submission. The page limit for these submissions is 4 pages. Accepted papers will be displayed on the MATH-AI 2025 homepage, but are to be considered **non-archival**.
 
-Submission site: [MATH-AI 2025 on OpenReview](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/MATH-AI)
+Submission site: [MATH-AI 2025 on OpenReview](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/MATH-AI). If you haven't already, we recommend creating an OpenReview profile as soon as possible, as profile creation can take up to two weeks in some cases.
 
 
 ### Camera-ready Requirements
