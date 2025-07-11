@@ -46,6 +46,10 @@ All accepted papers will be presented in an in-person poster session, and some w
 Submission site: [MATH-AI 2025 on OpenReview](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/MATH-AI). If you haven't already, we recommend creating an OpenReview profile as soon as possible, as new profile creation can take up to two weeks in some cases.
 
 
+### Reviewing Process
+
+We are committed to a rigorous and fair evaluation of all submissions. Reviewers must declare both domain and individual conflicts before review assignments are made. Final decisions will be made by the organizing team, based on the reviews. Organizers will recuse themselves from any submission with which they have a conflict, as identified by OpenReview. Each submission will receive at least three reviews, and there will be no rebuttal phase. Final decisions will rely heavily on reviewer feedback; exceptions will be made only in rare cases and must be approved by at least two non-conflicted organizers.
+
 ### Camera-ready Requirements
 
 The final version of all accepted papers will be given one additional page of content (up to 5 pages) so that reviewers’ comments can be taken into account.
