@@ -28,6 +28,16 @@ ylin:
   url: "https://linyongver.github.io/Website/"
   affiliation: "Princeton"
   img: "ylin.png"
+zqin:
+  name: "Zhizhen Qin"
+  url: "https://zhizhenqin.github.io/"
+  affiliation: "Amazon"
+  img: "zqin.jpg"
+ylin:
+  name: "Soonho Kong"
+  url: "https://soonhokong.github.ioSoonho Kong"
+  affiliation: "Amazon"
+  img: "skong.png"
 hhe:
   name: "He He"
   url: "https://hhexiy.github.io/"
