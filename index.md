@@ -86,7 +86,7 @@ This workshop is centered on the intersection of deep learning and mathematical 
   <div class="row">
     {% for p in site.data.organizers %}
     {% capture id %}{{ p[0] }}{% endcapture %}
-    {% if forloop.index>6 and forloop.index<=10%}
+    {% if forloop.index>6 and forloop.index<=12%}
     {% include profile.html p=p %}
     {% endif %}
     {% endfor %}
@@ -94,15 +94,7 @@ This workshop is centered on the intersection of deep learning and mathematical 
 </div>
 <hr>
 
-<!-- # Program Committee
-<div class="container">
-  <ul class="list-group list-group-flush">
-    {% for p in site.data.pc.people %}
-      <li class="list-group-item col-xs-6 col-sm-4 col-md-3">{{ p }}</li>
-    {% endfor %}
-  </ul>
-</div>
-<hr> -->
+
 
 # Past MATH-AI Workshops
 
