@@ -19,7 +19,7 @@ ychoi:
     img: "ychoi.jpg"
     bio: "Yejin Choi is the (incoming) Dieter Schwarz Foundation Professor and HAI Senior Fellow at Stanford. She is a Senior Director at NVIDIA. Choi is MacArthur Fellow, AI2050 Senior Fellow, and named among Time 100 Most Influential People in AI in 2023. Her current research interests include fundamental limits and capabilities of LLMs, alternative training recipes for language models, symbolic methods for neural networks, reasoning and knowledge discovery, moral norms and values, pluralistic alignment, and AI safety."
 
-ldemoura
+ldemoura:
     name: "Leonardo de Moura"
     url: "https://leodemoura.github.io/"
     affiliation: "Lean FRO & Amazon"
