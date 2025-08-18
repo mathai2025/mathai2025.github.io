@@ -29,8 +29,8 @@ This workshop is centered on the intersection of deep learning and mathematical 
 ### Important Dates 
 
 **Paper submission opens:** July 22, 2025 <br>
-**Paper submission deadline**: <b style='color:red;'>August 29, 2025 (AoE)</b><br>
-**Author notification:** September 22, 2025 (AoE) <br>
+**Paper submission deadline**: <s>August 29</s> <b style='color:red;'>September 26, 2025 (AoE)</b><br>
+**Author notification:** October 16, 2025 (AoE) <br>
 **Camera-ready deadline:** October 30, 2025 <br>
 **Workshop:** December 6 or 7 (TBA), 2025
 
