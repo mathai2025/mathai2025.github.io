@@ -20,7 +20,7 @@ use-site-title: true
 # News
 
 * We're looking for reviewers. Please use [this form](https://forms.gle/rw8iUkLxJnZh9De29) to nominate yourself. Thanks for your help!
-* <b style='color:red;'>We're calling for 4-page non-archival workshop submissions (tentative deadline: August 29). Please see our <a href="./cfp">CFP</a> for details.</b>
+* <b style='color:red;'>We're calling for 4-page non-archival workshop submissions. The deadline is September 26 (Anywhere on Earth). Please see our <a href="./cfp">CFP</a> for details.</b>
 
 # Overview
 
