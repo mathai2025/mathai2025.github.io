@@ -66,7 +66,7 @@ mtegmark:
     url: "https://physics.mit.edu/faculty/max-tegmark/"
     affiliation: "MIT"
     img: "mtegmark.jpg"
-    bio: ""
+    bio: "Professor Tegmark’s research is focused on precision cosmology, e.g., combining theoretical work with new measurements to place sharp constraints on cosmological models and their free parameters. During his first quarter-century as a physics researcher, this criterion has lead him to work mainly on cosmology and quantum information. Although he’s continuing his cosmology work with the HERA collaboration, the main focus of his current research is on the physics of intelligence: using physics-based techniques to better understand biological and artificial intelligence (AI)."
 
 mvechev:
     name: "Martin Vechev"
