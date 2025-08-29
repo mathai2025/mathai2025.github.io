@@ -61,6 +61,13 @@ tma:
     img: "tma.jpg"
     bio: "Tengyu Ma is an Assistant Professor of Computer Science and Statistics at Stanford. His research interests broadly include topics in machine learning, algorithms and their theory, such as deep learning, (deep) reinforcement learning, pre-training / foundation models, robustness, non-convex optimization, distributed optimization, and high-dimensional statistics."
 
+mtegmark:
+    name: "Max Tegmark"
+    url: "https://physics.mit.edu/faculty/max-tegmark/"
+    affiliation: "MIT"
+    img: "mtegmark.jpg"
+    bio: ""
+
 mvechev:
     name: "Martin Vechev"
     url: "https://www.sri.inf.ethz.ch/people/martin"
