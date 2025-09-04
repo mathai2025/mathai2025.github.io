@@ -66,7 +66,7 @@ mtegmark:
     url: "https://physics.mit.edu/faculty/max-tegmark/"
     affiliation: "MIT"
     img: "mtegmark.jpg"
-    bio: "Professor Tegmark’s research is focused on precision cosmology, e.g., combining theoretical work with new measurements to place sharp constraints on cosmological models and their free parameters. During his first quarter-century as a physics researcher, this criterion has lead him to work mainly on cosmology and quantum information. Although he’s continuing his cosmology work with the HERA collaboration, the main focus of his current research is on the physics of intelligence: using physics-based techniques to better understand biological and artificial intelligence (AI)."
+    bio: "Max Tegmark is a professor doing AI and physics research at MIT as part of the Institute for Artificial Intelligence & Fundamental Interactions and the Center for Brains, Minds and Machines. He advocates for positive use of technology as president of the Future of Life Institute. He is the author of over 300 publications as well as the New York Times bestsellers “Life 3.0: Being Human in the Age of Artificial Intelligence” and "Our Mathematical Universe: My Quest for the Ultimate Nature of Reality".  His current AI research focuses on provably safe AI and mechanistic interpretability."
 
 mvechev:
     name: "Martin Vechev"
