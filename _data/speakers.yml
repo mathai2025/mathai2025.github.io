@@ -66,7 +66,7 @@ mtegmark:
     url: "https://physics.mit.edu/faculty/max-tegmark/"
     affiliation: "MIT"
     img: "mtegmark.jpg"
-    bio: "Max Tegmark is a professor doing AI and physics research at MIT as part of the Institute for Artificial Intelligence & Fundamental Interactions and the Center for Brains, Minds and Machines. He advocates for positive use of technology as president of the Future of Life Institute. He is the author of over 300 publications as well as the New York Times bestsellers “Life 3.0: Being Human in the Age of Artificial Intelligence” and "Our Mathematical Universe: My Quest for the Ultimate Nature of Reality".  His current AI research focuses on provably safe AI and mechanistic interpretability."
+    bio: "Max Tegmark is a professor doing AI and physics research at MIT as part of the Institute for Artificial Intelligence & Fundamental Interactions and the Center for Brains, Minds and Machines. He advocates for positive use of technology as president of the Future of Life Institute. He is the author of over 300 publications as well as the New York Times bestsellers \"Life 3.0: Being Human in the Age of Artificial Intelligence\" and \"Our Mathematical Universe: My Quest for the Ultimate Nature of Reality\".  His current AI research focuses on provably safe AI and mechanistic interpretability."
 
 mvechev:
     name: "Martin Vechev"
