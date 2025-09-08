@@ -12,13 +12,6 @@ wchen:
     img: "wchen.jpg"
     bio: "Weizhu Chen is a Technical Fellow and CVP at Microsoft. He leads a team working on large-scale (OpenAI and Microsoft) model training, including post-training, pre-training, and data. His published works include LoRA, DeBERTa, Phi, and Rho-1 (best paper runner-up award in NeurIPS 2024)."
 
-ychoi:
-    name: "Yejin Choi"
-    url: "https://yejinc.github.io/"
-    affiliation: "Stanford & NVIDIA"
-    img: "ychoi.jpg"
-    bio: "Yejin Choi is the (incoming) Dieter Schwarz Foundation Professor and HAI Senior Fellow at Stanford. She is a Senior Director at NVIDIA. Choi is MacArthur Fellow, AI2050 Senior Fellow, and named among Time 100 Most Influential People in AI in 2023. Her current research interests include fundamental limits and capabilities of LLMs, alternative training recipes for language models, symbolic methods for neural networks, reasoning and knowledge discovery, moral norms and values, pluralistic alignment, and AI safety."
-
 ldemoura:
     name: "Leonardo de Moura"
     url: "https://leodemoura.github.io/"
