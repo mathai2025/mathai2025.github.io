@@ -51,7 +51,7 @@ This workshop is centered on the intersection of deep learning and mathematical 
   <div class="row">
     {% for p in site.data.speakers %}
     {% capture id %}{{ p[0] }}{% endcapture %}
-    {% if forloop.index>6 and forloop.index<=12%}
+    {% if forloop.index>5 and forloop.index<=12%}
     {% include profile.html p=p %}
     {% endif %}
     {% endfor %}
