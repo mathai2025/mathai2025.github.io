@@ -90,7 +90,8 @@ This workshop is centered on the intersection of deep learning and mathematical 
 # Sponsors
 
 
-<a href="https://www.darpa.mil/" target="_blank"><img alt="DARPA" src="img/darpa.png" height=200 /></a>
+<a href="https://www.darpa.mil/" target="_blank"><img alt="DARPA" src="img/darpa.png" height=180 /></a>
+<a href="https://harmonic.fun/" target="_blank"><img alt="Harmonic" src="img/harmonic.svg" height=180 /></a>
 
 
 # Past MATH-AI Workshops
