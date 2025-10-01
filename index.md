@@ -15,11 +15,12 @@ use-site-title: true
 <meta name="thumbnail" content="./img/neurips-logo-new.jpg" />
 
 
-
+<!--
 # News
 
 * We're looking for reviewers. Please use [this form](https://forms.gle/rw8iUkLxJnZh9De29) to nominate yourself. Thanks for your help!
 * <b style='color:red;'>We're calling for 4-page non-archival workshop submissions. The deadline is September 26 (AoE). Please see our <a href="./cfp">CFP</a> for details.</b>
+-->
 
 # Overview
 
@@ -85,6 +86,12 @@ This workshop is centered on the intersection of deep learning and mathematical 
 </div>
 <hr>
 
+
+# Sponsors
+
+## Platinum
+
+<img alt="DARPA" src="img/darpa.png" />
 
 
 # Past MATH-AI Workshops
