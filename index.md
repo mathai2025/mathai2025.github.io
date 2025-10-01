@@ -91,7 +91,7 @@ This workshop is centered on the intersection of deep learning and mathematical 
 
 ## Platinum
 
-<img alt="DARPA" src="img/darpa.png" />
+<a href="https://www.darpa.mil/" target="_blank"><img alt="DARPA" src="img/darpa.png" height=200 /></a>
 
 
 # Past MATH-AI Workshops
