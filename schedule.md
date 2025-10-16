@@ -40,7 +40,7 @@ use-site-title: true
       </tr>
       <tr>
         <td style="width: 180px;">10:30am - 11:15am</td>
-        <td>Panel Discussion: <a href="https://www.cs.utexas.edu/~swarat/" target="_blank">Swarat Chaudhuri</a> (UT Austin & Google DeepMind), <a href="https://www.renaissancephilanthropy.org/team/tom-kalil" target="_blank">Tom Kalil</a> (Renaissance Philanthropy), <a href="https://patrickshafto.com/" target="_blank">Patrick Shafto</a> (DARPA & Rutgers), <a href="https://sites.google.com/brown.edu/junehyuk" target="_blank">Jonathan Thomm</a> (Harmonic)</td>
+        <td>Panel Discussion: <a href="https://www.cs.utexas.edu/~swarat/" target="_blank">Swarat Chaudhuri</a> (UT Austin & Google DeepMind), <a href="https://www.renaissancephilanthropy.org/team/tom-kalil" target="_blank">Tom Kalil</a> (Renaissance Philanthropy), <a href="https://patrickshafto.com/" target="_blank">Patrick Shafto</a> (DARPA & Rutgers), <a href="https://www.linkedin.com/in/jonathan-thomm/" target="_blank">Jonathan Thomm</a> (Harmonic)</td>
       </tr>
       <tr>
         <td style="width: 180px;">11:15am - 12:00pm</td>
