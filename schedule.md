@@ -8,7 +8,7 @@ use-site-title: true
   <a target="_blank" href="https://nips.cc/virtual/2025/workshop/109565">NeurIPS 2025, San Diego Convention Center (Upper Level Ballroom 6A), December 6th, 2025</a>
 </div>
 
-# Schedule
+# Tentative Schedule
 
 
 
