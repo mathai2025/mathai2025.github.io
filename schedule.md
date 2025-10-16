@@ -11,16 +11,11 @@ use-site-title: true
 # Schedule
 
 
-The schedule is to be announced.
 
-<!-- #### Friday, December 14th, 2023
-#### All times are in Central Standard Time (CST) ([Check local time](https://www.google.com/search?q=time+for+local+new+orleans))
+#### Saturday, December 6th, 2025
+#### All times are in Pacific Time (PT)
 
 
-#### Location: Room 217-219, New Orleans Convention Center ([Map](https://goo.gl/maps/8WXJ8h4Svng793Cc8))
-#### Live video stream: [Link](https://neurips.cc/virtual/2022/workshop/50015) -->
-
-<!--
 <div class="container">
   <div class="row">
     <table class="table">
@@ -30,19 +25,23 @@ The schedule is to be announced.
       </tr>
       <tr>
         <td style="width: 180px;">8:30am - 9:00am</td>
-        <td>Invited Talk: <a href="https://dawnsong.io/">Dawn Song</a>, UC Berkeley</td>
+        <td>Invited Talk: <a href="https://wyliu.com/">Weiyang Liu</a>, Chinese University of Hong Kong</td>
       </tr>
       <tr>
         <td style="width: 180px;">9:00am - 9:30am</td>
-        <td>Invited Talk: <a href="https://bengio.abracadoudou.com/">Samy Bengio</a>, Apple</td>
+        <td>Invited Talk: <a href="https://homes.cs.washington.edu/~hannaneh/">Hannaneh Hajishirzi</a>, University of Washington & AI2</td>
       </tr>
       <tr>
         <td style="width: 180px;">9:30am - 10:00am</td>
-        <td>Invited Talk: <a href="https://noambrown.github.io/">Noam Brown</a>, OpenAI</td>
+        <td>Invited Talk: <a href="https://leodemoura.github.io/">Leonardo de Moura</a>, Lean FRO & AWS</td>
       </tr>
       <tr>
-        <td style="width: 180px;">10:00am - 11:00am</td>
-        <td>Panel Discussion: <a href="https://dawnsong.io/">Dawn Song</a>, <a href="https://www.andrew.cmu.edu/user/avigad/">Jeremy Avigad</a>, <a href="https://noambrown.github.io/">Noam Brown</a>, <a href="https://sites.google.com/brown.edu/junehyuk">Junehyuk Jung</a> (Brown)</td>
+        <td style="width: 180px;">10:00am - 10:30am</td>
+        <td>Invited Talk: <a href="https://physics.mit.edu/faculty/max-tegmark/">Max Tegmark</a>, MIT</td>
+      </tr>
+      <tr>
+        <td style="width: 180px;">10:30am - 11:15Swarat Chaudhuri,am</td>
+        <td>Panel Discussion: <a href="https://www.cs.utexas.edu/~swarat/">Swarat Chaudhuri</a> (UT Austin & Google DeepMind), <a href="https://www.renaissancephilanthropy.org/team/tom-kalil">Tom Kalil</a> (Renaissance Philanthropy), <a href="https://patrickshafto.com/">Patrick Shafto</a> (DARPA & Rutgers), <a href="https://sites.google.com/brown.edu/junehyuk">Jonathan Thomm</a> (Harmonic)</td>
       </tr>
       <tr>
         <td style="width: 180px;">11:00am - 12:30pm</td>
@@ -90,4 +89,4 @@ The schedule is to be announced.
     </table>
   </div>
 </div>
--->
+
