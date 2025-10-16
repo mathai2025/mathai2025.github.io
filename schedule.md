@@ -40,7 +40,7 @@ use-site-title: true
         <td>Invited Talk: <a href="https://physics.mit.edu/faculty/max-tegmark/">Max Tegmark</a>, MIT</td>
       </tr>
       <tr>
-        <td style="width: 180px;">10:30am - 11:15Swarat Chaudhuri,am</td>
+        <td style="width: 180px;">10:30am - 11:15am</td>
         <td>Panel Discussion: <a href="https://www.cs.utexas.edu/~swarat/">Swarat Chaudhuri</a> (UT Austin & Google DeepMind), <a href="https://www.renaissancephilanthropy.org/team/tom-kalil">Tom Kalil</a> (Renaissance Philanthropy), <a href="https://patrickshafto.com/">Patrick Shafto</a> (DARPA & Rutgers), <a href="https://sites.google.com/brown.edu/junehyuk">Jonathan Thomm</a> (Harmonic)</td>
       </tr>
       <tr>
@@ -68,19 +68,15 @@ use-site-title: true
         <td>Contributed Talks</td>
       </tr>
       <tr>
-        <td style="width: 180px;">10:30am - 11:15Swarat Chaudhuri,am</td>
-        <td>Panel Discussion: <a href="https://www.cs.utexas.edu/~swarat/">Martin Vechev</a> (UT Austin & Google DeepMind), <a href="https://www.renaissancephilanthropy.org/team/tom-kalil">Tom Kalil</a> (Renaissance Philanthropy), <a href="https://patrickshafto.com/">Patrick Shafto</a> (DARPA & Rutgers), <a href="https://sites.google.com/brown.edu/junehyuk">Jonathan Thomm</a> (Harmonic)</td>
+        <td style="width: 180px;">3:30pm - 4:15pm</td>
+        <td>Panel Discussion: <a href="https://www.cs.utexas.edu/~swarat/">Martin Vechev</a> (ETH Zürich & INSAIT), <a href="https://ai.stanford.edu/~tengyuma/">Tengyu Ma</a> (Stanford), <a href="https://sites.google.com/view/cjin/home">Chi Jin</a> (Princeton)</td>
       </tr>
       <tr>
-        <td style="width: 180px;">3:00pm - 3:30pm</td>
-        <td>Invited Talk: <a href="https://profiles.stanford.edu/james-zou">James Zou</a>, Stanford</td>
-      </tr>
-      <tr>
-        <td style="width: 180px;">4:00pm - 5:00pm</td>
+        <td style="width: 180px;">4:15pm - 5:25pm</td>
         <td>Poster Session 2</td>
       </tr>
       <tr>
-        <td style="width: 180px;">5:00pm - 5:05pm</td>
+        <td style="width: 180px;">5:25pm - 5:30pm</td>
         <td>Closing Remarks</td>
       </tr>
     </table>
