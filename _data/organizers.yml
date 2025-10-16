@@ -31,12 +31,12 @@ ylin:
 zqin:
   name: "Zhizhen Qin"
   url: "https://zhizhenqin.github.io/"
-  affiliation: "Amazon"
+  affiliation: "AWS"
   img: "zqin.jpg"
 skong:
   name: "Soonho Kong"
   url: "https://soonhokong.github.io/"
-  affiliation: "Amazon"
+  affiliation: "AWS"
   img: "skong.png"
 hhe:
   name: "He He"
