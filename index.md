@@ -51,7 +51,15 @@ This workshop is centered on the intersection of deep learning and mathematical 
   <div class="row">
     {% for p in site.data.speakers %}
     {% capture id %}{{ p[0] }}{% endcapture %}
-    {% if forloop.index>5 and forloop.index<=12%}
+    {% if forloop.index>5 and forloop.index<=10%}
+    {% include profile.html p=p %}
+    {% endif %}
+    {% endfor %}
+  </div>
+  <div class="row">
+    {% for p in site.data.speakers %}
+    {% capture id %}{{ p[0] }}{% endcapture %}
+    {% if forloop.index>10 and forloop.index<=15%}
     {% include profile.html p=p %}
     {% endif %}
     {% endfor %}
