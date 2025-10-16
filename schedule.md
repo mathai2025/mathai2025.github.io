@@ -12,7 +12,6 @@ use-site-title: true
 
 
 
-#### Saturday, December 6th, 2025
 #### All times are in Pacific Time (PT)
 
 
