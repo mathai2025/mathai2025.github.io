@@ -33,6 +33,13 @@ cjin:
     img: "cjin.jpg"
     bio: "Chi Jin is an Assistant Professor of Electrical and Computer Engineering at Princeton University. His research focuses on the decision-making aspects of machine learning, developing intelligent agents capable of complex strategy, advanced reasoning, and planning. His research interests also include improving the reasoning abilities of LLMs and developing LLM agents for mathematics, coding, and complex games."
 
+tkalil:
+    name: "Tom Kalil"
+    url: "https://www.renaissancephilanthropy.org/team/tom-kalil"
+    affiliation: "Renaissance Philanthropy"
+    img: "tkalil.jpg"
+    bio: "Tom Kalil is the CEO of Renaissance Philanthropy. Tom served in the White House for two presidents (Obama and Clinton) and in collaboration with his team worked with the Senate to give every federal agency the authority to support incentive prizes for up to $50 million. Tom also designed and launched dozens of White House science and technology initiatives, including the $40 billion National Nanotechnology Initiative, announced by President Clinton; The BRAIN Initiative, announced by President Obama; The Next Generation Internet initiative, announced by President Clinton and Vice President Gore; and initiatives in advanced materials, robotics, smallsats, data science, and EdTech. Tom also served as the Chief Innovation Officer at Schmidt Futures, a philanthropic initiative of Eric and Wendy Schmidt. At Schmidt Futures, Tom supported the launch of Convergent Research, an organization that incubates and launches Focused Research Organizations, timebound non-profit organizations designed to accelerate scientific progress. Tom Kalil serves as Chair of Convergent Research. Tom also serves as a Member of the Board of Future House, a non profit focused on building AI-powered assistants for the laboratory."
+
 akumar:
     name: "Aviral Kumar"
     url: "https://aviralkumar2907.github.io/"
@@ -54,12 +61,26 @@ tma:
     img: "tma.jpg"
     bio: "Tengyu Ma is an Assistant Professor of Computer Science and Statistics at Stanford. His research interests broadly include topics in machine learning, algorithms and their theory, such as deep learning, (deep) reinforcement learning, pre-training / foundation models, robustness, non-convex optimization, distributed optimization, and high-dimensional statistics."
 
+pshafto:
+    name: "Patrick Shafto"
+    url: "https://patrickshafto.com/"
+    affiliation: "DARPA & Rutgers"
+    img: "pshafto.jpg"
+    bio: ""
+    
 mtegmark:
     name: "Max Tegmark"
     url: "https://physics.mit.edu/faculty/max-tegmark/"
     affiliation: "MIT"
     img: "mtegmark.jpg"
     bio: "Max Tegmark is a professor doing AI and physics research at MIT as part of the Institute for Artificial Intelligence & Fundamental Interactions and the Center for Brains, Minds and Machines. He advocates for positive use of technology as president of the Future of Life Institute. He is the author of over 300 publications as well as the New York Times bestsellers \"Life 3.0: Being Human in the Age of Artificial Intelligence\" and \"Our Mathematical Universe: My Quest for the Ultimate Nature of Reality\".  His current AI research focuses on provably safe AI and mechanistic interpretability."
+
+jthomm:
+    name: "Jonathan Thomm"
+    url: "https://www.linkedin.com/in/jonathan-thomm/"
+    affiliation: "Harmonic"
+    img: "jthomm.jpg"
+    bio: "Jonathan Thomm is solving Math with AI at Harmonic."
 
 mvechev:
     name: "Martin Vechev"
