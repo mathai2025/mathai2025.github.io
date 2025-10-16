@@ -25,23 +25,23 @@ use-site-title: true
       </tr>
       <tr>
         <td style="width: 180px;">8:30am - 9:00am</td>
-        <td>Invited Talk: <a href="https://wyliu.com/">Weiyang Liu</a>, Chinese University of Hong Kong</td>
+        <td>Invited Talk: <a href="https://wyliu.com/" target="_blank">Weiyang Liu</a> (Chinese University of Hong Kong)</td>
       </tr>
       <tr>
         <td style="width: 180px;">9:00am - 9:30am</td>
-        <td>Invited Talk: <a href="https://homes.cs.washington.edu/~hannaneh/">Hannaneh Hajishirzi</a>, University of Washington & AI2</td>
+        <td>Invited Talk: <a href="https://homes.cs.washington.edu/~hannaneh/" target="_blank">Hannaneh Hajishirzi</a> (UW & AI2)</td>
       </tr>
       <tr>
         <td style="width: 180px;">9:30am - 10:00am</td>
-        <td>Invited Talk: <a href="https://leodemoura.github.io/">Leonardo de Moura</a>, Lean FRO & AWS</td>
+        <td>Invited Talk: <a href="https://leodemoura.github.io/" target="_blank">Leonardo de Moura</a> (Lean FRO & AWS)</td>
       </tr>
       <tr>
         <td style="width: 180px;">10:00am - 10:30am</td>
-        <td>Invited Talk: <a href="https://physics.mit.edu/faculty/max-tegmark/">Max Tegmark</a>, MIT</td>
+        <td>Invited Talk: <a href="https://physics.mit.edu/faculty/max-tegmark/" target="_blank">Max Tegmark</a> (MIT)</td>
       </tr>
       <tr>
         <td style="width: 180px;">10:30am - 11:15am</td>
-        <td>Panel Discussion: <a href="https://www.cs.utexas.edu/~swarat/">Swarat Chaudhuri</a> (UT Austin & Google DeepMind), <a href="https://www.renaissancephilanthropy.org/team/tom-kalil">Tom Kalil</a> (Renaissance Philanthropy), <a href="https://patrickshafto.com/">Patrick Shafto</a> (DARPA & Rutgers), <a href="https://sites.google.com/brown.edu/junehyuk">Jonathan Thomm</a> (Harmonic)</td>
+        <td>Panel Discussion: <a href="https://www.cs.utexas.edu/~swarat/" target="_blank">Swarat Chaudhuri</a> (UT Austin & Google DeepMind), <a href="https://www.renaissancephilanthropy.org/team/tom-kalil" target="_blank">Tom Kalil</a> (Renaissance Philanthropy), <a href="https://patrickshafto.com/" target="_blank">Patrick Shafto</a> (DARPA & Rutgers), <a href="https://sites.google.com/brown.edu/junehyuk" target="_blank">Jonathan Thomm</a> (Harmonic)</td>
       </tr>
       <tr>
         <td style="width: 180px;">11:15am - 12:00pm</td>
@@ -53,11 +53,11 @@ use-site-title: true
       </tr>
       <tr>
         <td style="width: 180px;">1:00pm - 1:30pm</td>
-        <td>Invited Talk: <a href="https://aviralkumar2907.github.io/">Aviral Kumar</a>, CMU</td>
+        <td>Invited Talk: <a href="https://aviralkumar2907.github.io/" target="_blank">Aviral Kumar</a> (CMU)</td>
       </tr>
       <tr>
         <td style="width: 180px;">1:30pm - 2:00pm</td>
-        <td>Invited Talk: <a href="https://www.microsoft.com/en-us/research/people/wzchen/">Weizhu Chen</a>, Microsoft</td>
+        <td>Invited Talk: <a href="https://www.microsoft.com/en-us/research/people/wzchen/" target="_blank">Weizhu Chen</a> (Microsoft)</td>
       </tr>
       <tr>
         <td style="width: 180px;">2:00pm - 2:30pm</td>
@@ -69,7 +69,7 @@ use-site-title: true
       </tr>
       <tr>
         <td style="width: 180px;">3:30pm - 4:15pm</td>
-        <td>Panel Discussion: <a href="https://www.cs.utexas.edu/~swarat/">Martin Vechev</a> (ETH Zürich & INSAIT), <a href="https://ai.stanford.edu/~tengyuma/">Tengyu Ma</a> (Stanford), <a href="https://sites.google.com/view/cjin/home">Chi Jin</a> (Princeton)</td>
+        <td>Panel Discussion: <a href="https://www.cs.utexas.edu/~swarat/" target="_blank">Martin Vechev</a> (ETH Zürich & INSAIT), <a href="https://ai.stanford.edu/~tengyuma/" target="_blank">Tengyu Ma</a> (Stanford), <a href="https://sites.google.com/view/cjin/home" target="_blank">Chi Jin</a> (Princeton)</td>
       </tr>
       <tr>
         <td style="width: 180px;">4:15pm - 5:25pm</td>
