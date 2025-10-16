@@ -44,39 +44,36 @@ use-site-title: true
         <td>Panel Discussion: <a href="https://www.cs.utexas.edu/~swarat/">Swarat Chaudhuri</a> (UT Austin & Google DeepMind), <a href="https://www.renaissancephilanthropy.org/team/tom-kalil">Tom Kalil</a> (Renaissance Philanthropy), <a href="https://patrickshafto.com/">Patrick Shafto</a> (DARPA & Rutgers), <a href="https://sites.google.com/brown.edu/junehyuk">Jonathan Thomm</a> (Harmonic)</td>
       </tr>
       <tr>
-        <td style="width: 180px;">11:00am - 12:30pm</td>
-        <td>Coffee Break and Poster Session 1</td>
+        <td style="width: 180px;">11:15am - 12:00pm</td>
+        <td>Poster Session 1</td>
       </tr>
       <tr>
-        <td style="width: 180px;">12:30pm - 1:30pm</td>
+        <td style="width: 180px;">12:00pm - 1:00pm</td>
         <td>Lunch Break</td>
       </tr>
       <tr>
+        <td style="width: 180px;">1:00pm - 1:30pm</td>
+        <td>Invited Talk: <a href="https://aviralkumar2907.github.io/">Aviral Kumar</a>, CMU</td>
+      </tr>
+      <tr>
         <td style="width: 180px;">1:30pm - 2:00pm</td>
-        <td>Invited Talk: <a href="https://sites.google.com/view/adamwagner">Adam Wagner</a>, Google DeepMind</td>
+        <td>Invited Talk: <a href="https://www.microsoft.com/en-us/research/people/wzchen/">Weizhu Chen</a>, Microsoft</td>
       </tr>
       <tr>
         <td style="width: 180px;">2:00pm - 2:30pm</td>
-        <td>Invited Talk: <a href="https://www.andrew.cmu.edu/user/avigad/">Jeremy Avigad</a>, CMU</td>
+        <td>Coffee Break</td>
       </tr>
       <tr>
-        <td style="width: 180px;">2:30pm - 3:00pm</td>
-        <td>Coffee Break</td>
+        <td style="width: 180px;">2:30pm - 3:30pm</td>
+        <td>Contributed Talks</td>
+      </tr>
+      <tr>
+        <td style="width: 180px;">10:30am - 11:15Swarat Chaudhuri,am</td>
+        <td>Panel Discussion: <a href="https://www.cs.utexas.edu/~swarat/">Martin Vechev</a> (UT Austin & Google DeepMind), <a href="https://www.renaissancephilanthropy.org/team/tom-kalil">Tom Kalil</a> (Renaissance Philanthropy), <a href="https://patrickshafto.com/">Patrick Shafto</a> (DARPA & Rutgers), <a href="https://sites.google.com/brown.edu/junehyuk">Jonathan Thomm</a> (Harmonic)</td>
       </tr>
       <tr>
         <td style="width: 180px;">3:00pm - 3:30pm</td>
         <td>Invited Talk: <a href="https://profiles.stanford.edu/james-zou">James Zou</a>, Stanford</td>
-      </tr>
-      <tr>
-        <td style="width: 180px;">3:30pm - 4:00pm</td>
-        <td>Contributed Talks:<br><br>
-          1. <a href="https://openreview.net/pdf?id=HmB9uZTzaD">VerMCTS: Synthesizing Multi-Step Programs using a Verifier, a Large Language Model, and Tree Search</a><br>
-          David Brandfonbrener, Harvard University<br><br>
-          2. <a href="https://openreview.net/pdf?id=j7DZWSc8qu">Inference Scaling Laws: An Empirical Analysis of Compute-Optimal Inference for LLM Problem-Solving</a><br>
-          Sean Welleck and Zhiqing Sun, CMU<br><br>
-          3. <a href="https://openreview.net/pdf?id=tIlDF5B6T4">Learning Mathematical Rules with Large Language Models</a><br>
-          Nelson Vadori, JPMorganChase AI Research
-        </td>
       </tr>
       <tr>
         <td style="width: 180px;">4:00pm - 5:00pm</td>
