@@ -15,12 +15,11 @@ use-site-title: true
 <meta name="thumbnail" content="./img/neurips-logo-new.jpg" />
 
 
-<!--
+
 # News
 
-* We're looking for reviewers. Please use [this form](https://forms.gle/rw8iUkLxJnZh9De29) to nominate yourself. Thanks for your help!
-* <b style='color:red;'>We're calling for 4-page non-archival workshop submissions. The deadline is September 26 (AoE). Please see our <a href="./cfp">CFP</a> for details.</b>
--->
+* We may have financial support for workshop attendees! Please use [this form](https://forms.gle/wDFQTJf7scL4Q6P37) to apply.
+
 
 # Overview
 
