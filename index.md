@@ -96,7 +96,7 @@ This workshop is centered on the intersection of deep learning and mathematical 
 
 # Sponsors
 
-<a href="https://www.darpa.mil/" target="_blank"><img alt="DARPA" src="img/darpa.png" width=280 /></a> <a href="https://harmonic.fun/" target="_blank"><img alt="Harmonic" src="img/harmonic.svg" width=300 /></a> <a href="https://aws.amazon.com/" target="_blank"><img alt="AWS" src="img/aws.png" width=250 /></a> 
+<a href="https://www.darpa.mil/" target="_blank"><img alt="DARPA" src="img/darpa.png" width=280 /></a> <a href="https://harmonic.fun/" target="_blank"><img alt="Harmonic" src="img/harmonic.svg" width=300 /></a> <a href="https://aws.amazon.com/" target="_blank"><img alt="AWS" src="img/aws.png" width=250 /></a> <a href="https://axiommath.ai/" target="_blank"><img alt="Axiom" src="img/Axiom.png" width=260 /></a>
 
 
 # Past MATH-AI Workshops
