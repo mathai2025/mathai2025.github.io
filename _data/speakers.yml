@@ -80,7 +80,7 @@ jthomm:
     url: "https://www.linkedin.com/in/jonathan-thomm/"
     affiliation: "Harmonic"
     img: "jthomm.jpg"
-    bio: "Jonathan Thomm is a Research Engineer at Harmonic, where he develops AI for mathematical reasoning. He was a core member of the team that built "Aristotle", one of the first AI systems to achieve a gold-medal-equivalent performance on the International Mathematical Olympiad (IMO), combining formal verification with informal reasoning. His research interests lie in scaling intelligent reasoning and reinforcement learning to complex problems. He is particularly interested in how AI models can improve far beyond a time horizon of minutes — learning and thinking as efficiently as humans. In the past, Jonathan worked with Prof. Bernhard Schölkopf at ETH Zurich on compositionality in LLMs."
+    bio: "Jonathan Thomm is a Research Engineer at Harmonic, where he develops AI for mathematical reasoning. He was a core member of the team that built \"Aristotle\", one of the first AI systems to achieve a gold-medal-equivalent performance on the International Mathematical Olympiad (IMO), combining formal verification with informal reasoning. His research interests lie in scaling intelligent reasoning and reinforcement learning to complex problems. He is particularly interested in how AI models can improve far beyond a time horizon of minutes — learning and thinking as efficiently as humans. In the past, Jonathan worked with Prof. Bernhard Schölkopf at ETH Zurich on compositionality in LLMs."
 
 mvechev:
     name: "Martin Vechev"
