@@ -32,7 +32,7 @@ use-site-title: true
       </tr>
       <tr>
         <td style="width: 180px;">9:30am - 10:00am</td>
-        <td>Invited Talk: <a href="https://physics.mit.edu/faculty/max-tegmark/" target="_blank">Max Tegmark</a> (MIT), Vericoding: Formally Verified Program Synthesis</td>
+        <td>Invited Talk: <a href="https://physics.mit.edu/faculty/max-tegmark/" target="_blank">Max Tegmark</a> (MIT), "Vericoding: Formally Verified Program Synthesis"</td>
       </tr>
       <tr>
         <td style="width: 180px;">10:00am - 10:30am</td>
