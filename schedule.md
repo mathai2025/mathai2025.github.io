@@ -32,11 +32,11 @@ use-site-title: true
       </tr>
       <tr>
         <td style="width: 180px;">9:30am - 10:00am</td>
-        <td>Invited Talk: <a href="https://leodemoura.github.io/" target="_blank">Leonardo de Moura</a> (Lean FRO & AWS)</td>
+        <td>Invited Talk: <a href="https://physics.mit.edu/faculty/max-tegmark/" target="_blank">Max Tegmark</a> (MIT)</td>
       </tr>
       <tr>
         <td style="width: 180px;">10:00am - 10:30am</td>
-        <td>Invited Talk: <a href="https://physics.mit.edu/faculty/max-tegmark/" target="_blank">Max Tegmark</a> (MIT)</td>
+        <td>Invited Talk: <a href="https://leodemoura.github.io/" target="_blank">Leonardo de Moura</a> (Lean FRO & AWS)</td>
       </tr>
       <tr>
         <td style="width: 180px;">10:30am - 11:15am</td>
