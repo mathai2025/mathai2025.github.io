@@ -8,7 +8,7 @@ use-site-title: true
   <a target="_blank" href="https://nips.cc/virtual/2025/workshop/109565">NeurIPS 2025, San Diego Convention Center (Upper Level Ballroom 6A), December 6th, 2025</a>
 </div>
 
-# Tentative Schedule
+# Schedule
 
 
 
@@ -64,7 +64,13 @@ use-site-title: true
       </tr>
       <tr>
         <td style="width: 180px;">2:30pm - 3:30pm</td>
-        <td>Contributed Talks</td>
+        <td>Contributed Talks <br>
+        <ul>
+          <li>"Hilbert: Recursively Building Formal Proofs with Informal Reasoning"</li>
+          <li>"CayleyPy Growth: Efficient growth computations and hundreds of new conjectures on Cayley graphs"</li>
+          <li><a href="https://cohenqu.github.io/" target="_blank">Yuxiao Qu</a>: "Learning to Reason on Hard Problems with Privileged On-Policy Exploration"</li>
+        <ul>
+        </td>
       </tr>
       <tr>
         <td style="width: 180px;">3:30pm - 4:15pm</td>
