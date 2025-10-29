@@ -16,9 +16,6 @@ use-site-title: true
 
 
 
-# News
-
-* We may have financial support for workshop attendees! Please use [this form](https://forms.gle/wDFQTJf7scL4Q6P37) to apply.
 
 
 # Overview
