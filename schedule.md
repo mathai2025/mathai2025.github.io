@@ -64,12 +64,8 @@ use-site-title: true
       </tr>
       <tr>
         <td style="width: 180px;">2:30pm - 3:30pm</td>
-        <td>Contributed Talks <br>
-        <ul>
-          <li>"Hilbert: Recursively Building Formal Proofs with Informal Reasoning"</li>
-          <li>"CayleyPy Growth: Efficient growth computations and hundreds of new conjectures on Cayley graphs"</li>
-          <li><a href="https://cohenqu.github.io/" target="_blank">Yuxiao Qu</a>: "Learning to Reason on Hard Problems with Privileged On-Policy Exploration"</li>
-        <ul>
+        <td>Contributed Talks <br /> &#8729; "Hilbert: Recursively Building Formal Proofs with Informal Reasoning" <br /> &#8729; "CayleyPy Growth: Efficient growth computations and hundreds of new conjectures on Cayley graphs" <br /> &#8729; <a href="https://cohenqu.github.io/" target="_blank">Yuxiao Qu</a>: "Learning to Reason on Hard Problems with Privileged On-Policy Exploration"</td>
+      </tr>
       <tr>
         <td style="width: 180px;">3:30pm - 4:15pm</td>
         <td>Panel Discussion: <a href="https://www.sri.inf.ethz.ch/people/martin" target="_blank">Martin Vechev</a> (ETH Zürich & INSAIT), <a href="https://www.cs.utexas.edu/~swarat/" target="_blank">Swarat Chaudhuri</a> (UT Austin & Google DeepMind), <a href="https://sites.google.com/view/cjin/home" target="_blank">Chi Jin</a> (Princeton)</td>
