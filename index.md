@@ -14,7 +14,8 @@ use-site-title: true
 <div class="sharethis-inline-share-buttons"></div>
 <meta name="thumbnail" content="./img/neurips-logo-new.jpg" />
 
-
+# News
+* Our <a href="https://mathai2025.github.io/schedule/">workshop schedule</a> is available!
 
 
 
