@@ -64,7 +64,7 @@ use-site-title: true
       </tr>
       <tr>
         <td style="width: 180px;">2:30pm - 3:30pm</td>
-        <td>Contributed Talks <br /> &#8729; <a href="https://vsumanth99.github.io/" target="_blank">Sumanth Varambally</a>: "Hilbert: Recursively Building Formal Proofs with Informal Reasoning" <br /> &#8729; "CayleyPy Growth: Efficient growth computations and hundreds of new conjectures on Cayley graphs" <br /> &#8729; <a href="https://cohenqu.github.io/" target="_blank">Yuxiao Qu</a>: "Learning to Reason on Hard Problems with Privileged On-Policy Exploration"</td>
+        <td>Contributed Talks <br /> &#8729; <a href="https://vsumanth99.github.io/" target="_blank">Sumanth Varambally</a>: "Hilbert: Recursively Building Formal Proofs with Informal Reasoning" <br /> &#8729; <a href="http://mat.puc-rio.br/~sergey/" target="_blank">Sergey Galkin</a>: "CayleyPy Growth: Efficient growth computations and hundreds of new conjectures on Cayley graphs" <br /> &#8729; <a href="https://cohenqu.github.io/" target="_blank">Yuxiao Qu</a>: "Learning to Reason on Hard Problems with Privileged On-Policy Exploration"</td>
       </tr>
       <tr>
         <td style="width: 180px;">3:30pm - 4:15pm</td>
