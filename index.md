@@ -16,6 +16,7 @@ use-site-title: true
 
 # News
 * Our <a href="https://mathai2025.github.io/schedule/">workshop schedule</a> is available!
+* Use <a href="https://forms.gle/sNe6zNo4ECgcpMcG9">this form</a> to indicate you're coming to MATH-AI and are open to connection with our sponsors and community partners!
 
 
 
