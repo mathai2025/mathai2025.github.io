@@ -24,7 +24,7 @@ use-site-title: true
       </tr>
       <tr>
         <td style="width: 180px;">8:30am - 9:00am</td>
-        <td>Invited Talk: <a href="https://wyliu.com/" target="_blank">Weiyang Liu</a> (Chinese University of Hong Kong)</td>
+        <td>Invited Talk: <a href="https://wyliu.com/" target="_blank">Weiyang Liu</a> (Chinese University of Hong Kong), "Scalable Formal Verification Enables Novel Design"</td>
       </tr>
       <tr>
         <td style="width: 180px;">9:00am - 9:30am</td>
