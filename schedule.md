@@ -36,7 +36,7 @@ use-site-title: true
       </tr>
       <tr>
         <td style="width: 180px;">10:00am - 10:30am</td>
-        <td>Invited Talk: <a href="https://leodemoura.github.io/" target="_blank">Leonardo de Moura</a> (Lean FRO & AWS)</td>
+        <td>Invited Talk: <a href="https://leodemoura.github.io/" target="_blank">Leonardo de Moura</a> (Lean FRO & AWS), "Teaching AI to Configure Proof Automation in Lean"</td>
       </tr>
       <tr>
         <td style="width: 180px;">10:30am - 11:15am</td>
