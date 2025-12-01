@@ -17,7 +17,7 @@ jdekoninck:
     url: "https://www.sri.inf.ethz.ch/people/jasper"
     affiliation: "ETH Zürich"
     img: "jdekoninck.png"
-    bio: ""
+    bio: "Jasper Dekoninck is a PhD researcher in the SRI Lab at ETH Zurich, aiming to create reliable methods for evaluating and advancing AI mathematical capabilities. He currently co-leads the MathArena benchmarking effort, which develops uncontaminated final-answer and proof-based math evaluations."
 
 ldemoura:
     name: "Leonardo de Moura"
