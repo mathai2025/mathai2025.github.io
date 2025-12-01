@@ -68,7 +68,7 @@ use-site-title: true
       </tr>
       <tr>
         <td style="width: 180px;">3:30pm - 4:15pm</td>
-        <td>Panel Discussion: <a href="https://www.sri.inf.ethz.ch/people/martin" target="_blank">Martin Vechev</a> (ETH Zürich & INSAIT), <a href="https://www.cs.utexas.edu/~swarat/" target="_blank">Swarat Chaudhuri</a> (UT Austin & Google DeepMind), <a href="https://sites.google.com/view/cjin/home" target="_blank">Chi Jin</a> (Princeton), <a href="https://dawnsong.io/" target="_blank">Dawn Song</a> (UC Berkeley)</td>
+        <td>Panel Discussion: <a href="https://www.cs.utexas.edu/~swarat/" target="_blank">Swarat Chaudhuri</a> (UT Austin & Google DeepMind), <a href="https://www.sri.inf.ethz.ch/people/jasper" target="_blank">Jasper Dekoninck</a> (ETH Zürich), <a href="https://sites.google.com/view/cjin/home" target="_blank">Chi Jin</a> (Princeton), <a href="https://dawnsong.io/" target="_blank">Dawn Song</a> (UC Berkeley)</td>
       </tr>
       <tr>
         <td style="width: 180px;">4:15pm - 5:25pm</td>
