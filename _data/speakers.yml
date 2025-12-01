@@ -12,6 +12,13 @@ wchen:
     img: "wchen.jpg"
     bio: "Weizhu Chen is a Technical Fellow and CVP at Microsoft. He leads a team working on large-scale (OpenAI and Microsoft) model training, including post-training, pre-training, and data. His published works include LoRA, DeBERTa, Phi, and Rho-1 (best paper runner-up award in NeurIPS 2024)."
 
+jdekoninck:
+    name: "Jasper Dekoninck"
+    url: "https://www.sri.inf.ethz.ch/people/jasper"
+    affiliation: "ETH Zürich"
+    img: "jdekoninck.png"
+    bio: ""
+
 ldemoura:
     name: "Leonardo de Moura"
     url: "https://leodemoura.github.io/"
@@ -81,10 +88,3 @@ jthomm:
     affiliation: "Harmonic"
     img: "jthomm.jpg"
     bio: "Jonathan Thomm is a Research Engineer at Harmonic, where he develops AI for mathematical reasoning. He was a core member of the team that built \"Aristotle\", one of the first AI systems to achieve a gold-medal-equivalent performance on the International Mathematical Olympiad (IMO), combining formal verification with informal reasoning. His research interests lie in scaling intelligent reasoning and reinforcement learning to complex problems. He is particularly interested in how AI models can improve far beyond a time horizon of minutes — learning and thinking as efficiently as humans. In the past, Jonathan worked with Prof. Bernhard Schölkopf at ETH Zurich on compositionality in LLMs."
-
-mvechev:
-    name: "Martin Vechev"
-    url: "https://www.sri.inf.ethz.ch/people/martin"
-    affiliation: "ETH Zürich & INSAIT"
-    img: "mvechev.jpg"
-    bio: "Martin Vechev is a Professor of Computer Science at ETH Zürich where he leads the Secure, Reliable, and Intelligent Systems Lab. He is also the Founder and Architect of INSAIT, the first world-class research center in computer science and artificial intelligence in Eastern Europe. His work spans the broad intersection of artificial intelligence and programming languages, including both theoretical and system aspects."
