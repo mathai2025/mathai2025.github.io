@@ -28,7 +28,7 @@ use-site-title: true
       </tr>
       <tr>
         <td style="width: 180px;">9:00am - 9:30am</td>
-        <td>Invited Talk: <a href="https://homes.cs.washington.edu/~hannaneh/" target="_blank">Hannaneh Hajishirzi</a> (UW & AI2)</td>
+        <td>Invited Talk: <a href="https://homes.cs.washington.edu/~hannaneh/" target="_blank">Hannaneh Hajishirzi</a> (UW & AI2), "Olmo 3 Model Flow for Mathematical Reasoning"</td>
       </tr>
       <tr>
         <td style="width: 180px;">9:30am - 10:00am</td>
