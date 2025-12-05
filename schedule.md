@@ -56,7 +56,7 @@ use-site-title: true
       </tr>
       <tr>
         <td style="width: 180px;">1:30pm - 2:00pm</td>
-        <td>Invited Talk: <a href="https://www.microsoft.com/en-us/research/people/wzchen/" target="_blank">Weizhu Chen</a> (Microsoft)</td>
+        <td>Invited Talk: <a href="https://www.microsoft.com/en-us/research/people/wzchen/" target="_blank">Weizhu Chen</a> (Microsoft), "From One Shot to Self-Play: Evolving RL-Based Reasoning Data in LLMs"</td>
       </tr>
       <tr>
         <td style="width: 180px;">2:00pm - 2:30pm</td>
