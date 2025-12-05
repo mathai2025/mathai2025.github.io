@@ -52,7 +52,7 @@ use-site-title: true
       </tr>
       <tr>
         <td style="width: 180px;">1:00pm - 1:30pm</td>
-        <td>Invited Talk: <a href="https://aviralkumar2907.github.io/" target="_blank">Aviral Kumar</a> (CMU)</td>
+        <td>Invited Talk: <a href="https://aviralkumar2907.github.io/" target="_blank">Aviral Kumar</a> (CMU), "The Various Dimensions of Scaling RL for Improving Math Reasoning"</td>
       </tr>
       <tr>
         <td style="width: 180px;">1:30pm - 2:00pm</td>
