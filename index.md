@@ -36,7 +36,7 @@ This workshop is centered on the intersection of deep learning and mathematical 
 
 <hr>
 
-# Speakers & Panelists (Tentative)
+# Speakers & Panelists
 <div class="container" style="margin-top: 20px;margin-bottom: 0px;">
   <div class="row">
     {% for p in site.data.speakers %}
